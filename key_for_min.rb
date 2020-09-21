@@ -12,6 +12,6 @@ def key_for_min_value(name_hash)
       minkey = key
     end
   end
-  
+
   puts minkey
 end
